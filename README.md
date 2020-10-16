@@ -1,2 +1,2 @@
 # lab_nariz
-Código realizado durante un trabajo de fin de grado.
+Código realizado durante un Trabajo de Fin de Grado.
